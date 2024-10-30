@@ -1,0 +1,6 @@
+Exception:-
+
+Errors: 
+    1. Compile time error. (Syntax error)
+    2. Runtime error. (Error while execution) -> Exceptions
+    3. Logical error. (Bugs, unexpected outputs)

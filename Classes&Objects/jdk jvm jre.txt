@@ -1,0 +1,10 @@
+JDK - Java Development Kit
+JVM - Java Virtual Machine
+JRE - Java Runtime Environment
+
+JVM is a virtual Environment which makes java platform independent 
+JRE provides all the libraries JVM needs to run java application
+
+client side will always have JRE and JVM for java application 
+
+as a developer we install JDK which also has both the JRE and JVM
